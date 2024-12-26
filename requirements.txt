@@ -1,0 +1,10 @@
+# requirements.txt
+# List of dependencies for Predictive Inventory Management for Retail
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+prophet
+
